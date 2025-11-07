@@ -32,17 +32,40 @@ Columns Included:
  				
 # Power BI Dashboard Pages :
 
-1 : Overview : Includes total patients admitted, total revenue generated, average length of stay in hospital, total emergency cases, and gender distribution. https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(84).png?raw=true
+### 1️⃣ Overview
+Includes total patients admitted, total revenue generated, average length of stay in hospital, total emergency cases, and gender distribution.  
+![Overview Page](https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(84).png?raw=true)
 
-2 : Admission : Number of admissions per month, weekday vs weekend admissions, type of admission (emergency & non-emergency), and a dynamic age slicer. https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(85).png?raw=true
+---
 
-3 : Billing : Insurance companies and their number of clients, count of each medical condition (Cancer, Asthma, etc.), and average billing vs length of stay in days. https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(86).png?raw=true
+### 2️⃣ Admissions
+Number of admissions per month, weekday vs weekend admissions, type of admission (emergency & non-emergency), and a dynamic age slicer.  
+![Admissions Page](https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(85).png?raw=true)
 
-4 : Doctors : Total doctor count, average patients per doctor, hospital with the most emergency cases, top performing doctor by revenue, and admissions count by year. https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(87).png?raw=true
+---
 
-5 : Medications : Total medications prescribed, types of medication, count of each medication taken, test results during discharge, and count of medications by admission type. https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(88).png?raw=true
+### 3️⃣ Billing
+Insurance companies and their number of clients, count of each medical condition (Cancer, Asthma, etc.), and average billing vs length of stay in days.  
+![Billing Page](https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(86).png?raw=true)
 
-6 : Key Insights : Covered my findings during the data cleaning, exploration, and visualization. https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(89).png?raw=true
+---
+
+### 4️⃣ Doctors
+Total doctor count, average patients per doctor, hospital with the most emergency cases, top performing doctor by revenue, and admissions count by year.  
+![Doctors Page](https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(87).png?raw=true)
+
+---
+
+### 5️⃣ Medications
+Total medications prescribed, types of medication, count of each medication taken, test results during discharge, and count of medications by admission type.  
+![Medications Page](https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(88).png?raw=true)
+
+---
+
+### 6️⃣ Key Insights
+Covers the main findings from data cleaning, exploration, and visualization.  
+![Key Insights Page](https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(89).png?raw=true)
+
 
 
 # Key Insights / Takeaways :
