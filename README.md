@@ -87,7 +87,7 @@ Covers the main findings from data cleaning, exploration, and visualization.
 ## 📄 Power BI Dashboard (PDF Version) : 
 
 You can view the full 6-page dashboard here:  
-👉 [**Download Dashboard PDF**](https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Healthcare_Dashboard_Final.pdf?raw=true)
+👉 [**Download Dashboard PDF**](https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/HealthCare-DashBoard.pdf)
 
 *(Exported with current values — reflects the final dashboard view.)*
 
