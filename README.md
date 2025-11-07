@@ -28,31 +28,39 @@ Columns Included:
 - Admission Type  
 - Discharge Date  
 - Medication  
-- Test Results						
+- Test Results
+ 				
+# Power BI Dashboard Pages
 
-# Power BI Dashboard pages :
-1 : Overview : Includes total patient admitted , total revenue generated , avg length of stay in hospital , total emergency cases and gender distribution .
-2 : Admission : No of admission in a month , admission during weekday vs weekend , type of admission(emergency & non-emergency ) and dynamic age slicer .
-3 : Billing : Insurance compaany and their no of clients , count of each medical condition(cancer,asthma etc) and avg billing vs length of stay in days .
-4 : Doctors : Total doctor count, average patients per doctor , hospital with most emergency cases handled, top performing doctor by revenue , most patients handled by a doctor and count of admission by year only .
-5 : Medications : Total medication taken , types of medication , count of each medication taken , test result of the patient during discharge and count of medication by admission type .
-6 : Key Insights :  Covered my findings during the data cleanig , exploration  and visualization .
+1 : Overview : Includes total patients admitted, total revenue generated, average length of stay in hospital, total emergency cases, and gender distribution.
 
-# Key Insights/Takeaways :
-Key Insights :
-Average Patient Admission per day : 33 .
-Peak month (In terms of both Admission and Billing Amount) : August with 4546 Admission .
-71.49% of Weekday Admission and 25.51% of Weekend Admission .
-Total Billing from all the Hospital : $ 1.2 Billion .
-Average Billing per Patient : $ 26K .
-Dr. Michael Smith handled  the most amount of Patients and have also generated the most Billing Amount .
-Most of the Patients are between the age of 19-85 .
-Average Length of Stay per Patient is 15 days .
-Around 40%(18.27K) of all the Admission are in Emergency category ( Arthritis and Obesity make up around 35%)
-Total of 15k Patients had a Re-admission .
-The proportion of Male and Female patients is 50% each .
-Hospital with most Emergency Case : LLC Smith .
-Year 2020 and 2023 had the most Patient Count of 11.3k and 11.1k respectively .
+2 : Admission : Number of admissions per month, weekday vs weekend admissions, type of admission (emergency & non-emergency), and a dynamic age slicer.
+
+3 : Billing : Insurance companies and their number of clients, count of each medical condition (Cancer, Asthma, etc.), and average billing vs length of stay in days.
+
+4 : Doctors : Total doctor count, average patients per doctor, hospital with the most emergency cases, top performing doctor by revenue, and admissions count by year.
+
+5 : Medications : Total medications prescribed, types of medication, count of each medication taken, test results during discharge, and count of medications by admission type.
+
+6 : Key Insights : Covered my findings during the data cleaning, exploration, and visualization.
+
+
+# Key Insights / Takeaways
+
+1. **Average Patient Admissions per Day:** 33  
+2. **Peak Month:** August, with **4,546 admissions** — also the highest in terms of total billing.  
+3. **Admission Type Distribution:** 71.49% weekday admissions and 25.51% weekend admissions.  
+4. **Total Billing:** **$1.2 Billion** generated across all hospitals.  
+5. **Average Billing per Patient:** **$26K**.  
+6. **Top Performing Doctor:** **Dr. Michael Smith**, who handled the most patients and generated the highest billing amount.  
+7. **Age Distribution:** Most patients fall between **19–85 years**.  
+8. **Average Length of Stay:** **15 days** per patient.  
+9. **Emergency Cases:** Around **40% (18.27K)** of all admissions were emergencies — with **Arthritis** and **Obesity** making up about 35% of these.  
+10. **Readmissions:** A total of **15K patients** were readmitted during the dataset period.  
+11. **Gender Ratio:** Male and female patients each represent **50%** of the total.  
+12. **Hospital with Most Emergency Cases:** **LLC Smith Hospital**.  
+13. **Yearly Trend:** **2020** and **2023** recorded the highest patient counts — **11.3K** and **11.1K**, respectively.
+
 
 # My Details :
 Name : M S Hemanth 
