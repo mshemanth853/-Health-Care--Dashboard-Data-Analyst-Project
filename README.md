@@ -95,14 +95,11 @@ You can view the full 6-page dashboard here:
 #  My Details :
 
 **Name:** M S Hemanth  
-**Qualification:** B.Tech in Electronics and Communication Engineering (ECE), Class of 2025  
-
+**Qualification:** B.Tech ECE Graduate (2025)  
 **Skills:**  
-- **Programming:** Python, Data Structures & Algorithms  
-- **Libraries:** NumPy, Pandas  
-- **Database:** SQL, PostgreSQL  
-- **Tools:** Jupyter Notebook, PyCharm, pgAdmin 4, Google Colab, SQL Workbench, Power BI  
-
-**E-mail:** mshemanth853@gmail.com  
-**Zoho Mail:** mshemanth853@zohomail.in
+- Python, Data Structures & Algorithms  
+- NumPy, Pandas  
+- SQL, PostgreSQL  
+**Tools:** Jupyter Notebook, PyCharm, pgAdmin 4, Google Colab, SQL Workbench, Power BI  
+**Email:** mshemanth853@gmail.com  
 
