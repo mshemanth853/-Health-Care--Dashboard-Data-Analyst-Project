@@ -30,7 +30,7 @@ Columns Included:
 - Medication  
 - Test Results
  				
-# Power BI Dashboard Pages
+# Power BI Dashboard Pages :
 
 1 : Overview : Includes total patients admitted, total revenue generated, average length of stay in hospital, total emergency cases, and gender distribution.
 
@@ -45,7 +45,7 @@ Columns Included:
 6 : Key Insights : Covered my findings during the data cleaning, exploration, and visualization.
 
 
-# Key Insights / Takeaways
+# Key Insights / Takeaways :
 
 1. **Average Patient Admissions per Day:** 33  
 2. **Peak Month:** August, with **4,546 admissions** — also the highest in terms of total billing.  
@@ -62,12 +62,17 @@ Columns Included:
 13. **Yearly Trend:** **2020** and **2023** recorded the highest patient counts — **11.3K** and **11.1K**, respectively.
 
 
-# My Details :
-Name : M S Hemanth 
-Qualification : BTech ECE graduate 2025
-Skills : Programming: Python, Data Structures & Algorithms
-         Libraries: NumPy, Pandas
-         Database: SQL, PostgreSQL
-Tools: Jupyter Notebook, PyCharm, pgAdmin 4, Google Colab , SQL Workbench, PowerBI
-E-mail : mshemanth853@gmail.com
-Zoho mail : mshemanth853@zohomail.in
+#  My Details :
+
+**Name:** M S Hemanth  
+**Qualification:** B.Tech in Electronics and Communication Engineering (ECE), Class of 2025  
+
+**Skills:**  
+- **Programming:** Python, Data Structures & Algorithms  
+- **Libraries:** NumPy, Pandas  
+- **Database:** SQL, PostgreSQL  
+- **Tools:** Jupyter Notebook, PyCharm, pgAdmin 4, Google Colab, SQL Workbench, Power BI  
+
+**E-mail:** mshemanth853@gmail.com  
+**Zoho Mail:** mshemanth853@zohomail.in
+
