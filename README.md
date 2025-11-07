@@ -54,4 +54,12 @@ The proportion of Male and Female patients is 50% each .
 Hospital with most Emergency Case : LLC Smith .
 Year 2020 and 2023 had the most Patient Count of 11.3k and 11.1k respectively .
 
-# DashBoard Screenshots : 
+# My Details :
+Name : M S Hemanth 
+Qualification : BTech ECE graduate 2025
+Skills : Programming: Python, Data Structures & Algorithms
+         Libraries: NumPy, Pandas
+         Database: SQL, PostgreSQL
+Tools: Jupyter Notebook, PyCharm, pgAdmin 4, Google Colab , SQL Workbench, PowerBI
+E-mail : mshemanth853@gmail.com
+Zoho mail : mshemanth853@zohomail.in
