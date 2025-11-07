@@ -84,6 +84,13 @@ Covers the main findings from data cleaning, exploration, and visualization.
 12. **Hospital with Most Emergency Cases:** **LLC Smith Hospital**.  
 13. **Yearly Trend:** **2020** and **2023** recorded the highest patient counts — **11.3K** and **11.1K**, respectively.
 
+## 📄 Power BI Dashboard (PDF Version) : 
+
+You can view the full 6-page dashboard here:  
+👉 [**Download Dashboard PDF**](https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Healthcare_Dashboard_Final.pdf?raw=true)
+
+*(Exported with current values — reflects the final dashboard view.)*
+
 
 #  My Details :
 
