@@ -3,7 +3,7 @@ I have developed an Healthcare Analytics Project using Python and Power BI, wher
 
 # Project Overview :
 My project explores Hospital data with the help of Python and Power BI , where I explored patterns , Finances & Medications 
-My main was to clean the data , check for patters and create an interactive dashboard to make it easy read , understand and present
+My main aim was to clean the data , check for patters and create an interactive dashboard to make it easy read , understand and present
 
 # Tools Used :
 Python(Pandas and Matplotlib)
